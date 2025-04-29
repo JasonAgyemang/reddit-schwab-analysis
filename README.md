@@ -47,6 +47,21 @@ To benchmark the TD x Schwab transition, we applied the same methodology to anal
 | TD x Schwab | Mixed, app complaints | Yes, usability drop | Strengthen online brokerage |
 | E*TRADE x MS | Mostly positive | Few | Expand wealth management |
 
+
+
+## 📊 Visual Insights
+
+The following visualizations summarize key insights from the Reddit sentiment and topic modeling analysis:
+
+- 🔍 LDA Topic Modeling Graph
+- 🧠 Top 10 Most Common Words in Comments
+- 😊 Sentiment Breakdown (Positive, Neutral, Negative)
+- ☁️ Word Cloud of Reddit Discussion Themes
+
+You can download all visuals as a single ZIP file below:
+
+[⬇️ Click here to download all visuals (ZIP)](./visuals_reddit.zip)
+
 ## 💡 Recommendations for Schwab
 - **Engage Influencers**: Create a feedback group of the 10 most impactful Reddit users to drive platform improvements.
 - **Restore Legacy Features**: Bring back features users loved from the TD app (e.g., Thinkorswim UI).
