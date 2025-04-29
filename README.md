@@ -63,20 +63,4 @@ Jason Agyemang, Justin Smith, Falmata Wako, Julianne Wertz
 
 ---
 
-### 📂 Suggested Repo Structure
-```plaintext
-reddit-schwab-analysis/
-├── README.md
-├── data/
-│   └── scraped_data.csv  (if shareable)
-├── visuals/
-│   ├── wordcloud_schwab.png
-│   ├── sentiment_graph.png
-│   └── lda_topics.png
-├── notebooks/
-│   └── reddit_analysis.ipynb
-└── scripts/
-    └── sentiment_model.py
-```
-
 > This project reflects a real-world NLP use case in finance, user experience research, and competitive benchmarking. 📈
