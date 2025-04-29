@@ -51,22 +51,22 @@ To benchmark the TD x Schwab transition, we applied the same methodology to anal
 ## 📊 Visual Insights
 
 ### 🔍 Topic Modeling (LDA)
-![LDA Topic Graph](./visuals/topic_graph.png)
+![LDA Topic Graph](./topic_graph.png)
 
 ---
 
 ### 🧠 Most Common Words in Reddit Comments
-![Common Word Frequency](./visuals/common_word_graph.png)
+![Common Word Frequency](./common_word_graph.png)
 
 ---
 
 ### 😊 Sentiment Breakdown
-![Sentiment Analysis Bar Chart](./visuals/sentiment_graph.png)
+![Sentiment Analysis Bar Chart](./sentiment_graph.png)
 
 ---
 
 ### ☁️ Word Cloud of Reddit Comments
-![Word Cloud](./visuals/wordcloud.png)
+![Word Cloud](./wordcloud.png)
 
 ## 💡 Recommendations for Schwab
 - **Engage Influencers**: Create a feedback group of the 10 most impactful Reddit users to drive platform improvements.
