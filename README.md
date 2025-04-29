@@ -2,7 +2,8 @@
 Analyzing user sentiment around Schwab’s acquisition of TD Ameritrade using Reddit data
 # 📊 Reddit Sentiment Analysis: TD Ameritrade x Charles Schwab Transition
 
-![Reddit Logo](./images/reddit_logo.jpg)
+![Reddit Logo](./reddit_logo.jpg)
+
 ## 🧠 Overview
 Following the acquisition of TD Ameritrade by Charles Schwab, our team set out to understand how customers perceived the transition — particularly through the lens of Reddit user sentiment. By scraping posts and comments across three key subreddits, we conducted sentiment analysis, topic modeling, and influence detection to provide actionable insights to Charles Schwab.
 
