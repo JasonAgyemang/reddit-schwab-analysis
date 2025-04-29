@@ -48,19 +48,25 @@ To benchmark the TD x Schwab transition, we applied the same methodology to anal
 | E*TRADE x MS | Mostly positive | Few | Expand wealth management |
 
 
-
 ## 📊 Visual Insights
 
-The following visualizations summarize key insights from the Reddit sentiment and topic modeling analysis:
+### 🔍 Topic Modeling (LDA)
+![LDA Topic Graph](./visuals/topic_graph.png)
 
-- 🔍 LDA Topic Modeling Graph
-- 🧠 Top 10 Most Common Words in Comments
-- 😊 Sentiment Breakdown (Positive, Neutral, Negative)
-- ☁️ Word Cloud of Reddit Discussion Themes
+---
 
-You can download all visuals as a single ZIP file below:
+### 🧠 Most Common Words in Reddit Comments
+![Common Word Frequency](./visuals/common_word_graph.png)
 
-[⬇️ Click here to download all visuals (ZIP)](./visuals_reddit.zip)
+---
+
+### 😊 Sentiment Breakdown
+![Sentiment Analysis Bar Chart](./visuals/sentiment_graph.png)
+
+---
+
+### ☁️ Word Cloud of Reddit Comments
+![Word Cloud](./visuals/wordcloud.png)
 
 ## 💡 Recommendations for Schwab
 - **Engage Influencers**: Create a feedback group of the 10 most impactful Reddit users to drive platform improvements.
